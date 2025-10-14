@@ -22,3 +22,42 @@ ul,span {
     list-style-type: none;
 }
 
+button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 12px;
+    padding: 3px 20px;
+    border-color: #3882F6;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.bottom {
+    background-color: #3882F6;
+    color:#F9FAF8;
+}
+
+#second-button {
+    border-color: white;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+}
+
+img {
+    width: 200px
+}
