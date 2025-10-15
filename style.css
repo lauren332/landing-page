@@ -56,10 +56,15 @@ h2 {
 .bottom {
     background-color: #3882F6;
     color:#F9FAF8;
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
 }
 
 #second-button {
     border-color: white;
+    padding: 20px;
 }
 
 .footer {
@@ -124,3 +129,5 @@ ul{
 strong{
     margin-left: 300px;
 }
+
+
