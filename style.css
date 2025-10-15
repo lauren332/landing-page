@@ -116,3 +116,11 @@ ul{
     text-align: center;
     margin:0px;
 }
+
+#text{
+    padding: 80px;
+}
+
+strong{
+    margin-left: 300px;
+}
